@@ -18,4 +18,5 @@
 #
 ---
 include:
-  - board: s40nc
+  - board: sparkfun_pro_micro_rp2040
+    shield: themis_v1
